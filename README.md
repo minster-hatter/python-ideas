@@ -9,8 +9,8 @@ I was using Python 3.10 on Linux 21.
 ## File Structure
 
 |---sections <br />
-|<&nbsp;&nbsp;&nbsp;|---__init__.py <br />
-|   |---sectionX.py <br />
+|&nbsp;&nbsp;&nbsp;|---__init__.py <br />
+|&nbsp;&nbsp;&nbsp;|---sectionX.py <br />
 |---notes.py <br />
 |---LICENCE <br />
 |---README.md <br />
