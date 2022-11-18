@@ -8,12 +8,14 @@ I was using Python 3.10 on Linux 21.
 
 ## File Structure
 
-|---sections <br />
-|   |---__init__.py <br />
-|   |---sectionX.py <br />
-|---notes.py <br />
-|---LICENCE <br />
-|---README.md <br />
+<pre>
+|---sections
+|   |---__init__.py
+|   |---sectionX.py
+|---notes.py
+|---LICENCE
+|---README.md
+<\pre>
 
 The *sections* sub-directory contains the notes from each section of the documentation. The file notes.py imports the various *sectionX.py* files (this is enabled by the *__init__.py* file).
 
